@@ -6,4 +6,5 @@ The main objective of this project is to get acquainted with the very basic mode
 * Sigmoid neuron model
 * Hebb's model
 
-<work in progress tho>
+
+**work in progress tho**
