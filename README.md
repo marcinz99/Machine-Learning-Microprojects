@@ -9,3 +9,4 @@ Presented projects (both the existing and the prospective ones) are mostly meant
 1. **Iris flowers recognition (naive bayesian inference)** - July, 2020
 2. **Finding changepoint in data** - July, 2020
 3. **Basic neurons models** - July, 2020
+4. **House price prediction** - July, 2020
