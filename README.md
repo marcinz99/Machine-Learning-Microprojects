@@ -10,3 +10,4 @@ Presented projects (both the existing and the prospective ones) are mostly meant
 2. **Finding changepoint in data** - July, 2020
 3. **Basic neurons models** - July, 2020
 4. **House price prediction** - July, 2020
+5. **MNIST digit classifier (KNN classifier)** - August, 2020
