@@ -11,3 +11,4 @@ Presented projects (both the existing and the prospective ones) are mostly meant
 3. **Basic neurons models** - July, 2020
 4. **House price prediction** - July, 2020
 5. **MNIST digit classifier (KNN classifier)** - August, 2020
+6. **Titanic survival prediction** - August, 2020
