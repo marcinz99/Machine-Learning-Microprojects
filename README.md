@@ -12,3 +12,4 @@ Presented projects (both the existing and the prospective ones) are mostly meant
 4. **House price prediction** - July, 2020
 5. **MNIST digit classifier (KNN classifier)** - August, 2020
 6. **Titanic survival prediction** - August, 2020
+7. **MNIST digit classifier (gradient histogram)** - September, 2020

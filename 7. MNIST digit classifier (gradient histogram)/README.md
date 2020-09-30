@@ -1,0 +1,3 @@
+# MNIST digit classifier (gradient histogram)
+
+I wanted to try out image recognition feature engineering method based on gradient histograms to radically reduce the dimentionality. The method turned out not to work as well as one could predict. This quite poor performance may be blamed on few things, but most likely the very basic version of method used here in order to achieve this extreme reduction in data dimensions (784 down to 8). Of course, there exist many more sophisticated variants, and those could do much better.
