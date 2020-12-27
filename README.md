@@ -14,3 +14,4 @@ Presented projects (both the existing and the prospective ones) are mostly meant
 6. **Titanic survival prediction** - August, 2020
 7. **MNIST digit classifier (gradient histogram)** - September, 2020
 8. **Batch Gradient Descent for softmax regression** - October, 2020
+9. **Blackjack player based on fuzzy logic** - December, 2020
